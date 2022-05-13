@@ -1,4 +1,7 @@
-<hr><h3><a name="auto"></a>auto</h3>
+### Taken from [Programwiz](https://www.programiz.com)
+
+
+<h3><a name="auto"></a>auto</h3>
 
 <p>The auto keyword declares automatic variables. For example:</p>
 
